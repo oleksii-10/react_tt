@@ -1,4 +1,4 @@
-## [DEMO](https://oleksii-10.github.io/react_tt)
+## [DEMO](https://atlana-tt.herokuapp.com/)
 
 - React
 - TS
