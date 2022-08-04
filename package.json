@@ -2,7 +2,7 @@
   "name": "gh_users_app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://oleksii-10.github.io/react_tt",
+  "homepage": "https://atlana-tt.herokuapp.com/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.8.3",
